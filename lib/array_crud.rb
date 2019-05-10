@@ -10,7 +10,7 @@ def European_finalists
 def European_finalists = << ["Ajax"]
   end
 
-def add_element_to_start_of_array(array, element)
+def European_finalists.Unshift ["Barcelona"]
   
 end
 
