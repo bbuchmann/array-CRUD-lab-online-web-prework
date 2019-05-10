@@ -19,14 +19,14 @@ def European_finalists.Pop = ["Tottenham"]
 def European_finalists.Shift = ["Barcelona"]
   end
 
-def European_finalists 
+def European_finalists.Index = ["Chelsea"]
   
 end
 
-def retrieve_first_element_from_array(array)
+def European_finalists = ["Arsenal"]
   
 end
 
-def retrieve_last_element_from_array(array)
+def European_finalists = ["liverpool"]
   
 end
