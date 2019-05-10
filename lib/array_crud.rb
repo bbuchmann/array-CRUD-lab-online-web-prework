@@ -19,7 +19,7 @@ def European_finalists.Pop = ["Tottenham"]
 def European_finalists.Shift = ["Barcelona"]
   end
 
-def retrieve_element_from_index(array, index_number)
+def European_finalists 
   
 end
 
