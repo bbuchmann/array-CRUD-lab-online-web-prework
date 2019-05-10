@@ -1,12 +1,14 @@
-def create_an_empty_array
+def European_finalists 
+  ["Arsenal","Tottenham","Liverpool","Chelsea"]
   
 end
 
-def create_an_array
-  
-end
+def European_finalists
+  ["Arsenal","Tottenham","liverpool","Chelsea"]
+  end
 
-def add_element_to_end_of_array(array, element)
+def European_finalists
+  
   
 end
 
