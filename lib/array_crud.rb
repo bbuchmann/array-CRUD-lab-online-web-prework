@@ -8,9 +8,7 @@ def European_finalists
   end
 
 def European_finalists = << ["Ajax"]
-  
-  
-end
+  end
 
 def add_element_to_start_of_array(array, element)
   
