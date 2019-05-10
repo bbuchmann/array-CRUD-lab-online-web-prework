@@ -7,7 +7,7 @@ def European_finalists
   ["Arsenal","Tottenham","liverpool","Chelsea"]
   end
 
-def European_finalists = 
+def European_finalists = << 
   
   
 end
